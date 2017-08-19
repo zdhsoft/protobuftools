@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.153,C:\Users\rex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\rex\Documents\Embarcadero\Studio\Projects\prototoolsPCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.467,=C:\Users\rex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.162,C:\Users\rex\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\tmp\proto_tools\mainFrm.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.162,C:\Users\rex\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\tmp\proto_tools\mainFrm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.161,C:\Users\rex\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\rex\Documents\Embarcadero\Studio\Projects\prototools.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.162,C:\Users\rex\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\tmp\proto_tools\mainFrm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.475,=D:\tmp\proto_tools\protoitem.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.558,=C:\Users\rex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.884,C:\Users\rex\Documents\Embarcadero\Studio\Projects\prototools.cbproj=D:\tmp\proto_tools\prototools.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.262,C:\Users\rex\Documents\Embarcadero\Studio\Projects\prototoolsPCH1.h=D:\tmp\proto_tools\prototoolsPCH1.h</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
